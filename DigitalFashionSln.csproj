@@ -9,12 +9,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="Images\3.gif">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-  </ItemGroup>
-
-  <ItemGroup>
     <None Include="wwwroot\images\3.gif">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
